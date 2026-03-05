@@ -18,8 +18,8 @@ simulated in CoppeliaSim.
 - Sensor & color detection logic
 
 ## 📁 Files In This Repository
-- `maze_solver.py` — Main Python algorithm and robot logic
-- `maze_scene.ttt` — Full CoppeliaSim 3D simulation scene
+- `mainb.py` — Main Python algorithm and robot logic
+- `Roboticmazerunner.ttt` — Full CoppeliaSim 3D simulation scene
 - Screenshots — Visual proof of robot in action
 
 ## 🎥 Live Demo
